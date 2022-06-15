@@ -1,3 +1,4 @@
 - Đây là ý tưởng của dự án.
 - ý tưởng sẽ được viết vào ngày 15/6/2022
-- note lại các ý tưởng
+- phần mềm quản lí phòng game
+- phần mềm đặt vé xem phim
